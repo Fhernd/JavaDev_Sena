@@ -11,5 +11,7 @@ public class Ejemplo
 			// ahora la variable de iteracion se multiplica por 5
 			System.out.println( i * 5 );
 		}
+		
+		// aqui continua la edicion.
 	}
 }
