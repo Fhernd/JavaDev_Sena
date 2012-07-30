@@ -8,7 +8,8 @@ public class Ejemplo
 	{
 		for (int i = 0; i < 10; i++) 
 		{
-			System.out.println( i * 3 );
+			// ahora la variable de iteracion se multiplica por 4
+			System.out.println( i * 4 );
 		}
 	}
 }
